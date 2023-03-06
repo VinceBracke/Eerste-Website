@@ -1,0 +1,22 @@
+body {
+	background:#999;
+	font-family: arial;
+}
+
+h1, h2 {
+	color: #555;
+}
+
+a {
+	color: blue;
+}
+
+.secondary {
+	background: #555;
+	padding: 20px;
+}
+
+.primary {
+	color: #555;
+}
+
